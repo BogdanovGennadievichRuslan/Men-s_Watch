@@ -548,9 +548,14 @@ body {
         flex-direction: column;
         align-items: center;
     }
-
+    
+    .logo {
+    	font-size: 18px;
+     }	
+	
     .menu {
         flex-direction: column;
+	font-size: 14px;
     }
 
     .section-advertising-3-product-container {
