@@ -553,7 +553,7 @@ body {
     }
     
     .section-advertising-1 {
-	height: 1450px;     
+	height: 1750px;     
      }
 	
     .section-advertising-1-product h1 {
@@ -567,7 +567,7 @@ body {
     }
 
     .section-advertising-1-product-item {
-        height: 250px;
+        height: 350px;
         width: 100%;
         margin: 10px auto;
         padding-top: 10px;
