@@ -568,7 +568,7 @@ body {
 
     .section-advertising-1-product-item {
         height: 250px;
-        width: 80%;
+        width: 100%;
         margin: 10px auto;
         padding-top: 10px;
         display: flex;
