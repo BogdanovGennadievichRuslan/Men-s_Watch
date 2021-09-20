@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "post-no-bills-jaffna";
-    src: url("/post-no-bills-jaffna-cufonfonts/PostNoBillsJaffna-Bold.ttf") format("truetype");
+    src: url("./post-no-bills-jaffna-cufonfonts/PostNoBillsJaffna-Bold.ttf") format("truetype");
 }
 
 body {
@@ -551,7 +551,11 @@ body {
     .menu {
         flex-direction: column;
     }
-
+    
+    .section-advertising-1 {
+	height: 1800px;     
+     }
+	
     .section-advertising-1-product h1 {
         font-size: 25px;
     }
@@ -564,7 +568,7 @@ body {
 
     .section-advertising-1-product-item {
         height: 250px;
-        width: 50%;
+        width: 80%;
         margin: 10px auto;
         padding-top: 10px;
         display: flex;
