@@ -551,6 +551,7 @@ body {
     
     .logo {
     	font-size: 18px;
+	 margin-left: 0;
      }	
 	
     .menu {
