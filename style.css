@@ -577,7 +577,7 @@ body {
     }
 
     .section-advertising-3-product-container {
-        width: 80%;
+        width: 50%;
         grid-template-columns: 250px;
     }
 
