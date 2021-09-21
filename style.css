@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "post-no-bills-jaffna";
-    src: url("/post-no-bills-jaffna-cufonfonts/PostNoBillsJaffna-Bold.ttf") format("truetype");
+    src: url("./post-no-bills-jaffna-cufonfonts/PostNoBillsJaffna-Bold.ttf") format("truetype");
 }
 
 body {
