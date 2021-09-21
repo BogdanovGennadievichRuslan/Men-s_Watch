@@ -522,7 +522,7 @@ body {
 
     .section-info {
         background-repeat: repeat;
-        height: 850px;
+        height: auto;
     }
     
     .section-info-wrapper {
