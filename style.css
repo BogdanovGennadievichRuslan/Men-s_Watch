@@ -323,6 +323,10 @@ body {
     display: none;
 } 
 
+ .prev, .next {
+    background-color: red;
+}
+
 .section-advertising-4 {
     border: 1px solid #0F0F0F;
     width: 100%;
