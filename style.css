@@ -600,6 +600,7 @@ a.menu-img {
         flex-direction: column;
         align-items: center;
         position: absolute;
+	width: 97%;
     }
 
     .logo {
