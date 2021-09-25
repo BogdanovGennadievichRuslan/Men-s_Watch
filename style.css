@@ -558,6 +558,17 @@ a.menu-img {
 
 @media screen and (max-width: 860px) {
 
+    .section-advertising-1-product-container {
+        flex-direction: column;
+        margin: 0 auto;
+        width: 70%;
+    }
+
+    .section-advertising-1-product-item {
+        margin: 10px auto;
+        padding-top: 20px;
+    }
+	
     .section-advertising-3-product-container {
         width: 100%;
         display: block;
@@ -634,17 +645,6 @@ a.menu-img {
 
     .section-advertising-1-product h1 {
         font-size: 25px;
-    }
-
-    .section-advertising-1-product-container {
-        flex-direction: column;
-        margin: 0 auto;
-        width: 70%;
-    }
-
-    .section-advertising-1-product-item {
-        margin: 10px auto;
-        padding-top: 20px;
     }
 
     .section-advertising-2-colection-button p {
